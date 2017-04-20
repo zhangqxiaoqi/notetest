@@ -12,7 +12,6 @@ import Toolbar from './components/Toolbar';
 import NotesList from './components/NotesList';
 import Editor from './components/Editor';
 export default {
-    
   components:{
       Toolbar,
       NotesList,

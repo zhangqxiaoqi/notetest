@@ -8,7 +8,7 @@ export const getters={
     GETTER_CurrentNote(state){
         return state.activeNote;
     },
-    GETTER_CuttentText(){
+    GETTER_CuttentText(state){
         return state.activeNote.text;
     },
     GETTER_FilterNote(state){

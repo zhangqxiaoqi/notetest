@@ -1,9 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300);
 
-html, #app {
+#app, .note-box, body, html{
   height: 100%;
 }
-
 body {
   margin: 0;
   padding: 0;
